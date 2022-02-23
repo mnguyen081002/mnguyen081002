@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Titus Nguyen</h1>
-<h3 align="center"> I am *Titus Nguyen* a Software Engineer Student from University Of Transport. I am very much interested in contributing for open source. And my career interest is Backend Developer. Always there to help others and to clarify the doubts you have.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3langn&label=Profile%20views&color=0e75b6&style=flat" alt="3langn" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2309BCFF&size=30&center=true&vCenter=tru&&width=1000&height=110&multiline=true&lines=I+am+a+Software+Engineer;+from+University+Of+Transport)](https://git.io/typing-svg)
+
+<h3 align="center"> I am very much interested in contributing for open source. And my career interest is Backend Developer. Always there to help others and to clarify the doubts you have.</h3>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=3langn&label=Profile%20views&color=0e75b6&style=flat" alt="3langn" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1d/90/50/1d905065088a8947f90800bf3db31ba1.gif">
 
 - 👨‍💻 My websie is available at [isekai.social](isekai.social)
 
@@ -10,6 +15,7 @@
 - 📫 How to reach me **3langn@gmail.com**
 
 - ⚡ Fun fact **I'm a bad boy !!!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
