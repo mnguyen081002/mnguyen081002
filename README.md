@@ -30,7 +30,7 @@
 
 ### Stats ⭐
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3langn&show_icons=true" alt="3langn_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3langn&include_all_commits=true&show_icons=true" alt="3langn_stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3langn&layout=compact" alt="3langn_stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=3langn&" alt="3langn_stats"/>
 </p>
