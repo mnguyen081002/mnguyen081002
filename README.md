@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Titus Nguyen</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2309BCFF&size=30&center=true&vCenter=tru&&width=1000&height=110&multiline=true&lines=I+am+a+Software+Engineer;+from+University+Of+Transport)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2309BCFF&size=30&center=true&vCenter=tru&&width=1000&height=110&multiline=true&lines=I+am+a+Software+Engineer;+from+Viet+Nam)](https://git.io/typing-svg)
 
 <h3 align="center"> I am very much interested in contributing for open source. And my career interest is Backend Developer. Always there to help others and to clarify the doubts you have.</h3>
 
