@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **3langn@gmail.com**
 
-- ⚡ Fun fact **I'm a bad boy !!!**
+- ⚡ Fun fact **I love coding !!!**
 
 
 <h3 align="left">Connect with me:</h3>
