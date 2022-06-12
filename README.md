@@ -10,7 +10,7 @@
 
 - 👨‍💻 My websie is available at https://isekai.social
 
-- 💬 Ask me about **Git, Flutter, React, NodeJs, Dart, JavaScript, TypeScript etc**
+- 💬 Ask me about **Git, Flutter, React, Golang, NodeJs, Dart, JavaScript, TypeScript etc**
 
 - 📫 How to reach me **3langn@gmail.com**
 
