@@ -8,8 +8,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1d/90/50/1d905065088a8947f90800bf3db31ba1.gif">
 
-- 👨‍💻 My websie is available at https://isekai.social
-
 - 💬 Ask me about **Git, Flutter, React, Golang, NodeJs, Dart, JavaScript, TypeScript etc**
 
 - 📫 How to reach me **3langn@gmail.com**
