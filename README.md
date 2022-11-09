@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Titus Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Minh Nguyen</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2309BCFF&size=30&center=true&vCenter=tru&&width=1000&height=110&multiline=true&lines=I+am+a+Software+Engineer;+from+Viet+Nam)](https://git.io/typing-svg)
 
