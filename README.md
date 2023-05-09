@@ -6,7 +6,7 @@
 
 <h3 align="center"> I am very much interested in contributing for open source. And my career interest is Backend Developer. Always there to help others and to clarify the doubts you have.</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=3langn&label=Profile%20views&color=0e75b6&style=flat" alt="3langn" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=mnguyen081002&label=Profile%20views&color=0e75b6&style=flat" alt="mnguyen081002" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1d/90/50/1d905065088a8947f90800bf3db31ba1.gif">
 
@@ -29,5 +29,5 @@
 
 ### Stats ⭐
 <p align="center"> 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=3langn&" alt="3langn_stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mnguyen081002&" alt="mnguyen081002_stats"/>
 </p>
