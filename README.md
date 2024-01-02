@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **3langn@gmail.com**
 
-- ⚡ Fun fact **I love coding !!!**
+- ⚡ Fun fact **...**
 
 
 <h3 align="left">Connect with me:</h3>
